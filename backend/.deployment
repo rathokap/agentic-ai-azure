@@ -1,0 +1,4 @@
+[config]
+# Tells Azure which directory contains the application
+# For a Python app, this should point to the directory containing app.py
+SCM_DO_BUILD_DURING_DEPLOYMENT=true

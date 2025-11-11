@@ -1,0 +1,3 @@
+python-dotenv
+applicationinsights
+opencensus-ext-azure
